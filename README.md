@@ -4,7 +4,7 @@
 
 <h2> Kullanılan teknolojiler<p>
 
-HTML, CSS kullanıldı .
+HTML, CSS ,JS
 
 <h2> Ekran Görüntüsü <h2>
 
